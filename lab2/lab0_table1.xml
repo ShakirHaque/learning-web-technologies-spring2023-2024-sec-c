@@ -15,7 +15,7 @@
     </product>
     <product sr="3">
          <id> 23</id>
-        <name> Nolia</name>
+        <name> Nokia</name>
         <unit_price> 25100 </unit_price>
         <stock>100</stock>
         <status>1</status>
