@@ -3,6 +3,7 @@
          <ID> 1</ID>
          <NAME> John Doe</NAME>
         <ADDRESS>
+            <FLAT></FLAT>
             <HOUSE>H#</HOUSE>
             <ROAD>R#3</ROAD>
             <AREA>Banani</AREA>
@@ -15,6 +16,7 @@
          <ID> 2</ID>
          <NAME> Mark Zukerberg</NAME>
         <ADDRESS>
+            <FLAT>A/1</FLAT>
             <HOUSE>H#20</HOUSE>
             <ROAD>R#18</ROAD>
             <AREA>Mirpur</AREA>
@@ -27,6 +29,7 @@
          <ID> 3</ID>
          <NAME> Ala Voski</NAME>
         <ADDRESS>
+            <FLAT></FLAT>
             <HOUSE>H#38</HOUSE>
             <ROAD>R#3</ROAD>
             <AREA>Motijeel</AREA>
